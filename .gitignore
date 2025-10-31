@@ -36,6 +36,12 @@
 *.exe
 *.out
 *.app
+*.elf
+*.gba
+
+build
 
 # debug information files
 *.dwo
+
+.vscode
